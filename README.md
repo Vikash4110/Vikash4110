@@ -1,5 +1,16 @@
 # 💫 About Me:
-Web Development<br>Frontend Project
+🔭 I’m currently working on: Front-end projects, creating interactive and user-friendly web interfaces.
+
+👯 I’m looking to collaborate on: Front-end development projects, where I can contribute my skills in creating visually appealing and responsive websites.
+
+🤝 I’m looking for help with: Back-end development, as I'm currently learning how to build the server-side components of web applications.
+
+🌱 I’m currently learning: Back-end development, with a focus on server-side programming, databases, and API development.
+
+💬 Ask me about: Anything related to front-end development, web design, or user experience. I'm also passionate about blogging, physical activities, cooking, and solving puzzles.
+
+⚡ Fun fact: My hobbies include blogging, staying active through physical activities like swimming and basketball, experimenting with new recipes in the kitchen, and challenging my mind with puzzles and brainteasers.
+
 
 
 ## 🌐 Socials:
