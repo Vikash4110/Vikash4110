@@ -1,34 +1,21 @@
-# Vikash Bharal - Software Engineer in the Making
+# 💫 About Me:
+Web Development<br>Frontend Project
 
-Welcome to my GitHub profile! I'm Vikash Bharal, a passionate and dedicated B.Tech Computer Science Engineering student with a burning enthusiasm for software development. Here, you'll find a glimpse into my journey as I pursue my degree from Punjab Technical University and embark on an exciting career in the world of technology.
 
-## About Me
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Vikash Bharal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_me_vikash18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vikash Bharal) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Vikash Bharal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Vikash Bharal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@PTU Study Zone) 
 
-- 🎓 **Education**: I'm currently honing my skills at Punjab Technical University, where I'm building a strong foundation in programming and problem-solving.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vikash4110&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vikash4110&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikash4110&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 💻 **Passion for Software Development**: I have an unwavering passion for software development, and I'm committed to continuous learning and growth in this dynamic field.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Vikash4110&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
-- ✍️ **Blogging**: I'm not just a tech enthusiast; I'm also an enthusiastic blogger. I blend my interests in science and geopolitics to create engaging content that sparks curiosity and thought.
+---
+[![](https://visitcount.itsvg.in/api?id=Vikash4110&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🏅 **Leadership Skills**: My active participation in NCC has helped me develop strong leadership skills, which I believe are vital in software engineering.
-
-- 🧠 **Logical and Analytical Mindset**: I approach problem-solving with a logical and analytical mindset, allowing me to tackle challenges comprehensively.
-
-- 🍽️ **Foodie and Chef**: Beyond coding, I love exploring different cuisines and experimenting with new recipes. Food is another realm of creativity that I'm passionate about.
-
-- 🏊‍♂️ 🏸 🏀 **Active Lifestyle**: To maintain a healthy and active lifestyle, I engage in swimming, badminton, and basketball regularly. A balance between mental and physical well-being is essential to me.
-
-## My Goal
-
-My ultimate goal is to become a successful Software Engineer who contributes to innovative projects that drive technological advancements. I'm on a constant quest to expand my knowledge, refine my skills, and make a meaningful impact in the world of software development.
-
-## Projects
-
-I'm actively learning web development and regularly posting my projects here on GitHub. Feel free to explore my repositories to see my progress and the exciting projects I'm working on.
-
-Thank you for visiting my GitHub profile! If you share my passion for technology, software development, or any of my other interests, don't hesitate to connect with me. Let's learn, collaborate, and innovate together! 🚀
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Blog](https://img.shields.io/badge/Blog-Read%20my%20posts-orange)](https://your-blog-link.com)
-
-Feel free to reach out and join me on this thrilling journey of exploration and growth in the world of technology. 🌟
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
