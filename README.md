@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=3893F7&random=false&width=435&lines=This+is+me+Vikash+Bharal" alt="Typing SVG" /></a>
 # 💫 About Me:
 🔭 I’m currently working on: Front-end projects, creating interactive and user-friendly web interfaces.
 
