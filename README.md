@@ -1,14 +1,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=3893F7&random=false&width=435&lines=This+is+me+Vikash+Bharal" alt="Typing SVG" /></a>
 # 💫 About Me:
-🔭 I’m currently working on: Front-end projects, creating interactive and user-friendly web interfaces.
+🔭 I’m currently working on: Full-stack projects, leveraging my skills as a MERN stack developer to create interactive and user-friendly web applications.
 
-👯 I’m looking to collaborate on: Front-end development projects, where I can contribute my skills in creating visually appealing and responsive websites.
+👯 I’m looking to collaborate on: Additional full-stack projects where I can further enhance my skills in both front-end and back-end development.
 
-🤝 I’m looking for help with: Back-end development, as I'm currently learning how to build the server-side components of web applications.
+🤝 I’m looking for help with: Advanced back-end development and AI/ML techniques to improve my ability to build robust server-side components and intelligent applications.
 
-🌱 I’m currently learning: Back-end development, with a focus on server-side programming, databases, and API development.
+🌱 I’m continuously learning: AI/ML and advanced back-end development, focusing on databases, API development, and server-side programming.
 
-💬 Ask me about: Anything related to front-end development, web design, or user experience. I'm also passionate about blogging, physical activities, cooking, and solving puzzles.
+💬 Ask me about: Anything related to full-stack development, including front-end and back-end technologies, web design, or user experience.
 
 ⚡ Fun fact: My hobbies include blogging, staying active through physical activities like swimming and basketball, experimenting with new recipes in the kitchen, and challenging my mind with puzzles and brainteasers.
 
