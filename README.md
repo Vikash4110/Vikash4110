@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/vikash-bharal-5a2a49238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vikash-Bharal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vikash-bharal-5a2a49238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vikash-Bharal" height="30" width="40" /></a>
 <a href="https://www.instagram.com/its_me_vikash18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vikash-Bharal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC6HDiYhkf6bMHz_CCbVi41A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Vikash-Bharal" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/bharal224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vikash-Bharal" height="30" width="40" /></a>
