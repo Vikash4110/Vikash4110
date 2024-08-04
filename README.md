@@ -29,10 +29,7 @@
 <hr>
 
 ## 💻 Tech Stack:
-<div align="center">
-  <div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1; padding: 10px;">
-      
+
 ### Programming Languages:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -80,9 +77,7 @@
 ### Full-Stack Development:
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-</div>
-</div>
-</div>
+
 
 <hr>
 
