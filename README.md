@@ -14,11 +14,19 @@
 
 - 💬 Ask me about : Anything related to full-stack development, including front-end and back-end technologies, web design, or user experience.
 - ⚡ Fun fact : My hobbies include blogging, staying active through physical activities like swimming and basketball, experimenting with new recipes in the kitchen, and challenging my mind with puzzles and brainteasers.
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vikash4110" alt="Vikash4110" /></a> </p>
+<hr>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vikash4110&margin-w=15&margin-h=15&no-bg=true&theme=onedark" alt="Vikash4110" /></a> </p>
 
+<hr>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://m.facebook.com/vikash.bharal?ref=bookmarks) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/its_me_vikash18/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/vikash-bharal-5a2a49238)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](www.linkedin.com/in/vikash-bharal-5a2a49238) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/vikash-bharal-5a2a49238t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vikash-Bharal" height="30" width="40" /></a>
+<a href="https://www.instagram.com/its_me_vikash18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vikash-Bharal" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC6HDiYhkf6bMHz_CCbVi41A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Vikash-Bharal" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/bharal224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vikash-Bharal" height="30" width="40" /></a>
+</p>
+<hr>
 
 ## 💻 Tech Stack:
 
@@ -71,12 +79,12 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vikash4110&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vikash4110&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikash4110&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vikash4110&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+<br>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vikash4110&show_icons=true&locale=en&layout=compact" alt="Vikash4110" /></p>
+
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Vikash4110&show_icons=true&locale=en" alt="Vikash4110" /></p>
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=Vikash4110&theme=dark&hide_border=true" alt="Vikash's Github Streak Stats" ></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vikash4110&icon=0&color=0)](https://visitcount.itsvg.in)
