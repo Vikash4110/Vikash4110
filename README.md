@@ -1,18 +1,20 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=3893F7&random=false&width=435&lines=This+is+me+Vikash+Bharal" alt="Typing SVG" /></a>
+<h1 align="center">Hi 👋, I'm Vikash Bharal</h1>
+<h3 align="center">A passionate Full Stack Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
+
 # 💫 About Me:
-🔭 I’m currently working on: Full-stack projects, leveraging my skills as a MERN stack developer to create interactive and user-friendly web applications.
 
-👯 I’m looking to collaborate on: Additional full-stack projects where I can further enhance my skills in both front-end and back-end development.
+- 🔭 I’m currently working on: Full-stack projects, leveraging my skills as a MERN stack developer to create interactive and user-friendly web applications.
 
-🤝 I’m looking for help with: Advanced back-end development and AI/ML techniques to improve my ability to build robust server-side components and intelligent applications.
+- 👯 I’m looking to collaborate on: Additional full-stack projects where I can further enhance my skills in both front-end and back-end development.
 
-🌱 I’m continuously learning: AI/ML and advanced back-end development, focusing on databases, API development, and server-side programming.
+- 👨‍💻 All of my projects are available at my [PortFolio](https://vikashbharal.vercel.app)
 
-💬 Ask me about: Anything related to full-stack development, including front-end and back-end technologies, web design, or user experience.
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/10OueP9sxe8zQpowTVts2HvPksfda_fcg/view?usp=sharing)
 
-⚡ Fun fact: My hobbies include blogging, staying active through physical activities like swimming and basketball, experimenting with new recipes in the kitchen, and challenging my mind with puzzles and brainteasers.
-
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vikash4110" alt="saka015" /></a> </p>
+- 💬 Ask me about : Anything related to full-stack development, including front-end and back-end technologies, web design, or user experience.
+- ⚡ Fun fact : My hobbies include blogging, staying active through physical activities like swimming and basketball, experimenting with new recipes in the kitchen, and challenging my mind with puzzles and brainteasers.
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vikash4110" alt="Vikash4110" /></a> </p>
 
 
 ## 🌐 Socials:
