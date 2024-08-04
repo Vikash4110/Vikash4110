@@ -25,7 +25,7 @@
 <a href="https://www.instagram.com/its_me_vikash18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vikash-Bharal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC6HDiYhkf6bMHz_CCbVi41A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Vikash-Bharal" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/bharal224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vikash-Bharal" height="30" width="40" /></a>
-<a href="https://geteternalknowledge.blogspot.com" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/blog.png" alt="Vikash-Bharal-Blog" height="30" width="40" /></a>
+<a href="https://geteternalknowledge.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="Vikash-Bharal" height="30" width="40" />
 
 </p>
 <hr>
