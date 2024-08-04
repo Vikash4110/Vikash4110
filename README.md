@@ -29,7 +29,10 @@
 <hr>
 
 ## 💻 Tech Stack:
-
+<div align="center">
+  <div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1; padding: 10px;">
+      
 ### Programming Languages:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -77,16 +80,21 @@
 ### Full-Stack Development:
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+</div>
+</div>
+</div>
 
-# 📊 GitHub Stats:
+<hr>
 
-<br>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vikash4110&show_icons=true&locale=en&layout=compact" alt="Vikash4110" /></p>
+📊 GitHub Stats:
+  <div style="flex: 1; padding: 10px;">
+      # 📊 GitHub Stats:
+      <br>
+      <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vikash4110&show_icons=true&locale=en&layout=compact" alt="Vikash4110" /></p>
+      <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Vikash4110&show_icons=true&locale=en" alt="Vikash4110" /></p>
+      <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=Vikash4110&theme=dark&hide_border=true" alt="Vikash's Github Streak Stats" ></p>
+    </div>
 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Vikash4110&show_icons=true&locale=en" alt="Vikash4110" /></p>
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=Vikash4110&theme=dark&hide_border=true" alt="Vikash's Github Streak Stats" ></p>
-
----
 [![](https://visitcount.itsvg.in/api?id=Vikash4110&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
