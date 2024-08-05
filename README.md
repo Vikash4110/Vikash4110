@@ -26,6 +26,7 @@
 <a href="https://www.youtube.com/channel/UC6HDiYhkf6bMHz_CCbVi41A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Vikash-Bharal" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/bharal224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vikash-Bharal" height="30" width="40" /></a>
 <a href="https://geteternalknowledge.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="Vikash-Bharal" height="30" width="40" />
+<a href="https://x.com/bharal_vikash?s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vikash-Bharal" height="30" width="40" />
 
 </p>
 <hr>
