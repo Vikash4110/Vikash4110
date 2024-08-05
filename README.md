@@ -60,7 +60,6 @@
 
 📊 GitHub Stats:
   <div style="flex: 1; padding: 10px;">
-      # 📊 GitHub Stats:
       <br>
       <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vikash4110&show_icons=true&locale=en&layout=compact" alt="Vikash4110" /></p>
       <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Vikash4110&show_icons=true&locale=en" alt="Vikash4110" /></p>
