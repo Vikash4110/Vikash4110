@@ -58,7 +58,7 @@
 
 <hr>
 
-📊 GitHub Stats:
+  ## 📊 GitHub Stats:
   <div style="flex: 1; padding: 10px;">
       <br>
       <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vikash4110&show_icons=true&locale=en&layout=compact" alt="Vikash4110" /></p>
