@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at my [PortFolio](https://vikashbharal.vercel.app)
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/10OueP9sxe8zQpowTVts2HvPksfda_fcg/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1EpSK-AP7gb9sUyDpKt_fNJgq4iGRBnre/view?usp=sharing)
 
 - 💬 Ask me about : Anything related to full-stack development, including front-end and back-end technologies, web design,user experience or AI/ML .
 - ⚡ Fun fact : My hobbies include blogging, staying active through physical activities like swimming and basketball, experimenting with new recipes in the kitchen, and challenging my mind with puzzles and brainteasers.
