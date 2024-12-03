@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
-# 💫 About Me:
+# 💫 About Me: 
 
 - 🔭 I’m currently working on: Full-stack projects, leveraging my skills as a MERN stack developer to create interactive and user-friendly web applications.
 
