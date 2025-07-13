@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikash Bharal</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">Miles to go before I sleep</h3>
 
 <p align="center">
 <!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Code+with+passion%2C+Build+with+purpose;Full-stack+developer;Open-source+contributor;Problem+solver;Continuous+learner" alt="Typing SVG" /></a> -->
