@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vikash Bharal</h1>
 <h3 align="center">Miles to go before I sleep</h3>
-
 <p align="center">
-<!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Code+with+passion%2C+Build+with+purpose;Full-stack+developer;Open-source+contributor;Problem+solver;Continuous+learner" alt="Typing SVG" /></a> -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F72299&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Freelancer;Open+Source+Contributor" alt="Typing SVG" /></a>
-</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Code+with+passion%2C+Build+with+purpose;Full-stack+developer;Open-source+contributor;Problem+solver;Continuous+learner" alt="Typing SVG" /></a></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikash4110&label=Profile%20views&color=0e75b6&style=flat" alt="vikash4110" /> </p>
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
@@ -41,11 +40,12 @@
 <hr>
 
   ## 📊 GitHub Stats:
-  <div style="flex: 1; padding: 10px;">
-      <br>
-      <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vikash4110&show_icons=true&locale=en&layout=compact" alt="Vikash4110" /></p>
-      <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Vikash4110&show_icons=true&locale=en" alt="Vikash4110" /></p>
-    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash4110&" alt="vikash4110" /></p>
-    </div>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikash4110&show_icons=true&locale=en&layout=compact" alt="vikash4110" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikash4110&show_icons=true&locale=en" alt="vikash4110" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash4110&" alt="vikash4110" /></p>
 
 
