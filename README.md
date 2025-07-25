@@ -18,7 +18,7 @@
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1EpSK-AP7gb9sUyDpKt_fNJgq4iGRBnre/view?usp=sharing)
 
 - 💬 Ask me about : Anything related to full-stack development, including front-end and back-end technologies, web design,user experience or AI/ML .
-- ⚡ Fun fact : My hobbies include blogging, staying active through physical activities like swimming and basketball, experimenting with new recipes in the kitchen, and challenging my mind with puzzles and brainteasers.
+- ⚡ Fun fact : My hobbies include blogging, staying active through physical activities like swimming and basketball, experimenting with new recipes in the kitchen, and challenging my mind with puzzles (Rubik's Cube) and brainteasers.
 <hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vikash4110&margin-w=15&margin-h=15&no-bg=true&theme=onedark" alt="Vikash4110" /></a> </p>
 
